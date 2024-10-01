@@ -1,0 +1,38 @@
+{
+  "name": "rgba-to-hsla-cli",
+  "version": "1.0.0",
+  "description": "rgba to hsla in cli",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "love1ace",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/love1ace/rgba-to-hsla-cli.git"
+  },
+  "keywords": [
+    "rgba",
+    "hsla",
+    "converter",
+    "cli",
+    "front-end",
+    "back-end",
+    "love1ace"
+  ],
+  "bugs": {
+    "url": "https://github.com/love1ace/rgba-to-hsla-cli/issues"
+  },
+  "files": [
+    "index.js",
+    "README.md",
+    "LICENSE"
+  ],
+  "homepage": "https://github.com/love1ace/rgba-to-hsla-cli#readme",
+  "bin": {
+    "rgba-to-hsla-cli": "index.js"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  }
+}
